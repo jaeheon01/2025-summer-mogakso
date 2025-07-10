@@ -1,0 +1,6 @@
+[[AWS의 사용법과 계정-AWS에서 제공하는 유용한 도구]]
+[[관리 콘솔과 대시보드-심플하고 직관적인 관리 도구]]
+[[AWS IAM과 접근 권한-접근 권한 설정]]
+[[Amazon CloudWatch-Amazon EC2의 리소스 상태 감시]]
+[[AWS Billing and Cost Management-AWS의 비용 관리]]
+[[리전과 가용 영역-세계 각국에 존재하는 데이터 센터]]
