@@ -4,7 +4,7 @@
 
 [[AWS를 사용하기 위한 도구(Main Node)]]
 
-[[서버 서비스 Amazon EC2]]
+[[서버 서비스 Amazon EC2 (Main Node)]]
 
 [[스토리지 서비스 Amazon S3]]
 
