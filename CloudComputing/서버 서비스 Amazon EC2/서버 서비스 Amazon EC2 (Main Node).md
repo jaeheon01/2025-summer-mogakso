@@ -4,7 +4,3 @@
 [[인스턴스 유형]]
 [[Amazon EBS]]
 [[SSH를 사용한 접속과 키 페어- 공개키 암호 방식을 이용한 접근 관리]]
-[[Elastic IP 주소]]
-[[Elastic Load Balancing]]
-[[스냅샷]]
-[[오토 스케일링]]
